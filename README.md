@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 - 📚 I'm currently pursuing my **Master's in Computer Science at NC State University**.
-- 🔬 My recent research focuses on **brain tumor diagnosis** using **deep learning models**, and **traffic optimization** utilizing **YOLO and Faster R-CNN** for dynamic signal control.
 - 🌟 I enjoy solving problems, building applications, and continuously learning about the latest advancements in **AI** and **ML**.
 
 ### 🎯 I'm open to:
