@@ -8,6 +8,7 @@
 
 - 📚 I'm currently pursuing my **Master's in Computer Science at NC State University**.
 - 🌟 I enjoy solving problems, building applications, and continuously learning about the latest advancements in **AI** and **ML**.
+- 🔬 I am currently exploring Generative AI, ML Ops and NLP.
 
 ### 🎯 I'm open to:
 - Opportunities in **AI**, **Machine Learning** **Web Development**, and **Software Engineering**.
