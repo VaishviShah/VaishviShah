@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VaishviShah&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishvi-shah-211102)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishvi-shah)
 # Hi there, I'm Vaishvi Shah! 👋
 
 ## 🚀 About Me
 
-📚 I'm currently pursuing my **Master's in Computer Science at NC State University**.
-🌟 I enjoy solving problems, building applications, and continuously learning about the latest advancements in **AI** and **ML**.
-🔬 I am currently exploring Generative AI, ML Ops and NLP.
+- 📚 I'm currently pursuing my **Master's in Computer Science at NC State University**.
+- 🌟 I enjoy solving problems, building applications, and continuously learning about the latest advancements in **AI** and **ML**.
+- 🔬 I am currently exploring Generative AI, ML Ops and NLP.
 
 ### 🎯 I'm open to:
 - Opportunities in **AI**, **Machine Learning** **Web Development**, and **Software Engineering**.
