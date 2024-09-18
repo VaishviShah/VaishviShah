@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=VaishviShah&label=Profile%20views&color=0e75b6&style=flat)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishviShah&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishvi-shah-211102)
+
 
